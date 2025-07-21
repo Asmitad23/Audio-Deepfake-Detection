@@ -49,7 +49,8 @@ data
 
 You can run the file named [main.py](main.py) and load your audio file and test whether the file is real or not.
 
-C:\Users\91805\OneDrive\Pictures\Screenshots\Screenshot 2025-04-16 193624.png
+<img width="1090" height="862" alt="Screenshot 2025-04-16 193624" src="https://github.com/user-attachments/assets/62a8e92c-d507-4f95-993a-631fac2167e2" />
+
 
 ## License
 
