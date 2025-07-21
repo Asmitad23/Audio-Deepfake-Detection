@@ -49,7 +49,7 @@ data
 
 You can run the file named [main.py](main.py) and load your audio file and test whether the file is real or not.
 
-![start](https://github.com/onurkya7/AudioDeepFakeDetection/assets/100594545/caec9967-ccea-4e52-b550-76755a0c0305)
+C:\Users\91805\OneDrive\Pictures\Screenshots\Screenshot 2025-04-16 193624.png
 
 ## License
 
